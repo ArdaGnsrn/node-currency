@@ -1,0 +1,16 @@
+{
+  "name": "node-currency",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node /test/index.js"
+  },
+  "repository": "https://github.com/ArdaGnsrn/node-currency",
+  "author": "ArdaGnsrn",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.21.1"
+  }
+}
