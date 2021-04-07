@@ -1,15 +1,31 @@
 {
   "name": "node-currency",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "JavaScript library for current exchange rates",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "node /test/index.js"
+    "start": "node index.js"
   },
+  "keywords": [
+    "currency",
+    "nodejs currency",
+    "currency converter",
+    "exchange rates",
+    "node-currency",
+    "bittorrent coin",
+    "turkish lira",
+    "btt to try converter",
+    "nodejs currency",
+    "ardagnsrn",
+    "bittorrent coin exchange rate"
+  ],
   "repository": "https://github.com/ArdaGnsrn/node-currency",
+  "bugs": {
+    "url": "https://github.com/ArdaGnsrn/node-currency/issues"
+  },
+  "homepage": "https://github.com/ArdaGnsrn/node-currency#readme",
   "author": "ArdaGnsrn",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "axios": "^0.21.1"
   }
